@@ -1,0 +1,27 @@
+*{
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+}
+.container{
+    display: grid;
+    /* height: 100; */
+    background-color: aqua;
+}
+ 
+  #dice{
+    /* margin-left: 30rem; */
+    margin-top: 3rem;
+  }
+  #swap{
+    width: 14rem;
+    background-color: rgb(92, 152, 120);
+    color: rgb(190, 213, 16);
+    font-size: xx-large;
+    border: 0;
+    outline: 0;
+    border-radius: 6rem;
+    height: 3rem;
+    margin-top: 3rem;
+  }
